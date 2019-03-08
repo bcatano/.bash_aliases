@@ -3,6 +3,7 @@ alias wget='wget -c'
 alias ping='ping -c 5'
 alias mkdir="mkdir -pv"
 alias la='ls -lAh'
+alias emacs='emacs -nw'
 
 # Make a new directory and change into it
 mkcd () {
